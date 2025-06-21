@@ -1,0 +1,10 @@
+D:\CODE C_C#\C#\GiaoDien_HCSR04\GiaoDien_HCSR04\bin\Debug\GiaoDien_HCSR04.exe.config
+D:\CODE C_C#\C#\GiaoDien_HCSR04\GiaoDien_HCSR04\bin\Debug\GiaoDien_HCSR04.exe
+D:\CODE C_C#\C#\GiaoDien_HCSR04\GiaoDien_HCSR04\bin\Debug\GiaoDien_HCSR04.pdb
+D:\CODE C_C#\C#\GiaoDien_HCSR04\GiaoDien_HCSR04\obj\Debug\GiaoDien_HCSR04.csproj.AssemblyReference.cache
+D:\CODE C_C#\C#\GiaoDien_HCSR04\GiaoDien_HCSR04\obj\Debug\GiaoDien_HCSR04.Form1.resources
+D:\CODE C_C#\C#\GiaoDien_HCSR04\GiaoDien_HCSR04\obj\Debug\GiaoDien_HCSR04.Properties.Resources.resources
+D:\CODE C_C#\C#\GiaoDien_HCSR04\GiaoDien_HCSR04\obj\Debug\GiaoDien_HCSR04.csproj.GenerateResource.cache
+D:\CODE C_C#\C#\GiaoDien_HCSR04\GiaoDien_HCSR04\obj\Debug\GiaoDien_HCSR04.csproj.CoreCompileInputs.cache
+D:\CODE C_C#\C#\GiaoDien_HCSR04\GiaoDien_HCSR04\obj\Debug\GiaoDien_HCSR04.exe
+D:\CODE C_C#\C#\GiaoDien_HCSR04\GiaoDien_HCSR04\obj\Debug\GiaoDien_HCSR04.pdb
